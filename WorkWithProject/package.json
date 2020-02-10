@@ -1,0 +1,12 @@
+{
+    "name": "WorkWithProject",
+    "description": "Testing Git Hub Integration",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_DESKTOP-2FDL4MK.json",
+            "credentialsFile": "flows_DESKTOP-2FDL4MK_cred.json"
+        }
+    }
+}
